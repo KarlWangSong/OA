@@ -11,5 +11,9 @@ test
 11111111111
 remote a  haha 
 p2 update
+<<<<<<< HEAD
+update bu local
+shabixinpeng
+update by local 2
 
-wangsongdadoubi
+wangsong is a good man 
